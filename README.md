@@ -1,0 +1,2 @@
+# Bash Shell
+ From “Pro Bash: Learn to Script and Program the GNU/Linux Shell,” one should learn the fundamentals of Bash scripting, including writing efficient shell scripts, automating tasks on Linux and Unix systems, and applying best practices for debugging and optimizing scripts. It’s a guide to becoming proficient in command-line programming and mastering the intricacies of the Bash environment.
