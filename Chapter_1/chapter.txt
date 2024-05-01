@@ -1,0 +1,19 @@
+Script started on 2024-05-01 12:17:42+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="72" LINES="33"]
+[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ PWD=$PWD[K[K[K[K[K[K[K[KPWD
+[?2004lPWD: command not found
+[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ pwd
+[?2004l/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1
+[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ PWD=#[K$PWD
+[?2004l[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ PATH=$PATH:$PWD/BPL/BIN[K[K[K[K[K[K[Kbpl/bin
+[?2004l[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ bash bpl/bin [K/hw
+[?2004lHello, World!
+[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ ch,[Kmod bpl/bin/hw
+[?2004lchmod: missing operand after ‘bpl/bin/hw’
+Try 'chmod --help' for more information.
+[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ chmod bpl/bin/hw[C bpl/bin/hw- bpl/bin/hwx bpl/bin/hw
+[?2004l[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ hw
+[?2004lHello, World!
+[?2004h]0;debashis@DESKTOP-A2J3INB: /mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[01;32mdebashis@DESKTOP-A2J3INB[00m:[01;34m/mnt/c/Users/DEBASHIS BERA/Desktop/Bash-Shell/Chapter_1[00m$ exit
+[?2004lexit
+
+Script done on 2024-05-01 12:24:07+05:30 [COMMAND_EXIT_CODE="0"]
